@@ -1,0 +1,3 @@
+g++ bha0.cpp
+gcc bha1.cpp
+gcc bha1.cpp -o batman
