@@ -1,0 +1,2 @@
+# myGCC
+C++ tutorial
